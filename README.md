@@ -1,5 +1,4 @@
-#<--Hii,I'm Prince-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Your+Name!;I'm+a+Passionate+Learner+and+Developer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Prince+Rathod!;I'm+a+Softwere+Learner+and+Developer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ---
 
