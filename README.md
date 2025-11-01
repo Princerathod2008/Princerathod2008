@@ -1,5 +1,5 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey!+👋+I'm+Prince+Rathod;A+softwere+Learner+and+Developer;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+<!-- Typing Animation Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Prince+Rathod;A+softwere+Learner+and+Developer;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 ---
 
@@ -10,14 +10,36 @@
 
 ---
 
+### 🎵 My Coding Vibes
+
+<p align="center">
+  <a href="https://open.spotify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Logo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Web Development, JavaScript, and Python**
+- 🌱 Currently learning **Web Development, JavaScript, and Python**
 - 💡 Exploring **Frontend Development** and **Open Source**
-- ⚡ Love creating **beautiful UIs** and learning new tech every day
+- ⚡ Love creating **beautiful UIs** and learning new technologies daily
 - 🎯 Goal: To become a **Full-Stack Developer**
 - 💬 Ask me about **HTML, CSS, Git, or beginner tips**
 - 📫 Reach me at: **your.email@example.com**
+
+---
+
+### 🐍 My Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -40,13 +62,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
-### 🎵 Vibes While Coding
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 ---
@@ -78,10 +93,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
----
-
-⭐️ *Made with ❤️ by Prince Rathod*
